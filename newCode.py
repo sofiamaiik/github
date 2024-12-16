@@ -1,7 +1,6 @@
 print("Hello")
 
-def hello2():
-    print("hello2")
+def hello():
+  print("hello")
 
-
-hello2()
+hello()
